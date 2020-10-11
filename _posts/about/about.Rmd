@@ -1,11 +1,10 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Naomie Geerinckx" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
 
-- first name/surname, teacher’s name, class name and academic year
+- Naomie Geerinckx, Mr Devillez, Bac 2 bio 
