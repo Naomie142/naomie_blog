@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# Article 1 : 
+# Article 1 : Ocean warming's impact on Antarctic Krill :
 
 ## Source of the article with publication date and word count : 
 
@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 *Word count* : ± 500 words 
 
-## Vocabulary: 
+## Vocabulary : 
 
 | Word from the text :  | Synonym/definition in English :     | French translate :           |
 | --------------------- | ----------------------------------- | ---------------------------- |
@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Mismatch              | a gab between two things            | décalage                     |
 | Southerly water       | water of the south                  | eaux méridionales            |
 
-## Analysis table
+## Analysis table :
 
 | Basic article information 	| / 	|
 |------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
