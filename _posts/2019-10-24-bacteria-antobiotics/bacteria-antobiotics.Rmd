@@ -1,20 +1,20 @@
 ---
-title: "Bacterium adaptation"
-description: |
-  Analysis of "More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut"
+title: "Effects of climate change on marine world"
+description: Articles on the effects of climate change on marine world
+  
 author:
-  - name: Student Unknown
+  - name: Geerinckx Naomie
   - name: Nicolas Devilez
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
-  - "Bacteria"
-  - "Adaptation"
-preview: images/jpg120051fa.png
+  - "climate change"
+  - "Effects"
+preview: 
 #draft: TRUE
-bibliography: biblio/bacteria.bib
+bibliography: 
 output:
   distill::distill_article:
     self_contained: false
@@ -25,33 +25,40 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](images/jpg120051fa.png)
-
-This post is an analysis of Analysis of *More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut* [@UniversityofBirmingham]. 
 
 
-## Summary 
+# Article 1 : 
 
-Bacterium adaptation to the surrounding environment is an undeniable and growing phenomenon. Nevertheless, some of these adaptations concern researchers because they pose a real threat to human health and are the origin of an increasing number of deaths each year.
+## Source of the article with publication date and word count : 
 
-Are all these bacteria originally dangerous? It’s a halftone answer. On the one hand, some bacteria have caused deadly infectious diseases for centuries such as staph but their rising dangerousness over the years is only the result of human errors. Where bacteria adapt to human innovations in order to survive, human has increasingly difficulties to counter the adaptive response of bacteria. The phenomenon is extremely important in the case of drug-resistant bacteria called “superbugs”. By prescribing antibiotics in an abusive way, bacteria have gradually succeeded, by their defense mechanisms such as the horizontal genes transfer or the transformation of their body wall, in dodging them to such an extent that some antibiotics, such as the Vancomycin, are totally useless against some bacteria.
+*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2020/05/200518145013.htm)
 
+*Date of the article* : 18/05/2020
+
+*Word count* : ± 500 words 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|      To inhabit     	|       To live in            	|
-|         Gut         	|       Intestine            	|
+| Word from the text :  | Synonym/definition in English :     | French translate :           |
+| --------------------- | ----------------------------------- | ---------------------------- |
+| Growth habitat        | the area where  an animal grows up  | l'habitat de croissance      |
+| The Southern Ocean    | ocean  around the Antarctic         | l'océan Austral              |
+| To shift              | To move                             | bouger, se déplacer, changer |
+| Phd student           | a doctoral student                  | doctorant(e)                 |
+| The finding           | what we get, the result             | le résultat                  |
+| the habitat area      | the surface where an animal lives   | la superficie d'habitat      |
+| To allow              | To enable                           | permettre                    |
+| Mismatch              | a gab between two things            | décalage                     |
+| Southerly water       | water of the south                  | eaux méridionales            |
 
 ## Analysis table
 
 | Basic article information 	| / 	|
 |------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Researchers 	| Etienne Ruppé, Amine Ghozlane, Julien Tap, Nicolas Pons, Anne- Sophie Alvarez, Nicolas Maziers, Trinidad Cuesta, Sara Hernando- Amado, Irene Clares, Jose Luís Martínez, Teresa M. Coque, Fernando Baquero, Val F. Lanza, Luis Máiz, Tiphaine Goulenok, Victoire de Lastours, Nawal Amor, Bruno Fantin, Ingrid Wieder, Antoine Andremont, Willem van Schaik, Malbert Rogers, Xinglin Zhang, Rob J. L. Willems, Alexandre G. de Brevern, Jean-Michel Batto, Hervé M. Blottière, Pierre Léonard, Véronique Léjard, Aline Letur, Florence Levenez, Kevin Weiszer, Florence Haimet, Joël Doré, Sean P. Kennedy & S. Dusko Ehrlich           	|
-| Published in? 	| November 30, 2018 	|
-| General topic? 	| A team of European researchers has developed an innovativemethod to identify antibiotic resistance genes produced by the bacteria	|
-| Procedure/what was examined? 	| The method consists of comparing the proteins produced by the bacteriafound in the human intestine, tostructures of antibiotic resistance enzymes already identified.Then, researchers have applied this innovative technique tomillions of genes located in the gut. 	|
-| Conclusions/discovery? 	| Thanks to this approach, no more than 6000 new antibiotic resistance genes have been discovered. Nevertheless, thehuman gut is also a place of living for several pathogenicbacteria which are increasingly resistant to antibiotics.|
-| Remaining questions? 	| Could these resistance genes be transferred to pathogenic bacteria by using antibiotics? Could this phenomenon reduce the effectiveness of antibiotics in the future? 	|
+| Researchers 	| Devi Veytia (doctoral student in IMAS) and scientists of ACE CRC and British Antarctic Survey.            	|
+| Published in? 	| The journal Nature Climate Change. 	|
+| General topic? 	| The impacts of climate change on the growth habitat of Krills in Antarctic and the repercussions of that. 	|
+| Procedure/what was examined? 	| They tried to predict how the temperature of Southern Ocean and the abundance of the phytoplankton will vary in the next years as a result of climate change. Then, the watched what the impacts it will be on the growth habitat of the krill by comparing the known data and the predicts data.   |
+| Conclusions/discovery? 	| The impacts on the growth habitat depend of the season and the area: the growth habitat will be better in spring (especially for the south and the continental shelf). For summer, the growth habitat will be good for certain areas (in high and low latitudes) and less good for other areas (mid-latitudes). Autumn is the worse season, the growth habitat will go to reduce a lot (especially in the subantarctic areas). These changes will go to shift the population of krill in the south and to perturb the cycle life of these animals. So, there could have repercussions on fishery and ecosystems. |
+| Remaining questions? 	| / 	|
 

@@ -7,4 +7,4 @@ output: distill::distill_article
 ---
 
 
-- Naomie Geerinckx, Mr Devillez, Bac 2 bio 
+ Naomie Geerinckx, Mr Devillez, Bac 2 bio 

@@ -1,29 +1,11 @@
 [
   {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-11",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-10-11T17:09:52+02:00"
-  },
-  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
+    "title": "Effects of climate change on marine world",
+    "description": "Articles on the effects of climate change on marine world",
     "author": [
       {
-        "name": "Student Unknown",
+        "name": "Geerinckx Naomie",
         "url": {}
       },
       {
@@ -35,16 +17,47 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-10-23",
     "categories": [
       "English for Science",
-      "Bacteria",
-      "Adaptation"
+      "climate change",
+      "Effects"
     ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:33:49+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
+    "preview": {},
+    "last_modified": "2020-10-23T09:52:33+02:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Naomie Geerinckx",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-23T09:53:02+02:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "___",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-23",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2020-10-23T08:54:55+02:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",
@@ -70,21 +83,6 @@
       "Paleontology",
       "Rodent"
     ],
-    "preview": {},
-    "last_modified": "2020-10-08T11:33:49+02:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [],
     "preview": {},
     "last_modified": "2020-10-08T11:33:49+02:00"
   }
