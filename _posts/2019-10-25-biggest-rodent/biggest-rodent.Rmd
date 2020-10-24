@@ -1,59 +1,64 @@
 ---
-title: "Biggest rodent"
+title: "Effects of climate change on marine world"
 description: |
-  Analysis of "Biggest rodent 'fought with teeth' like tusks"
+  Articles on the effects of climate change on marine world
 author:
-  - name: Student Unknown
-  - name: Van Lancker Ingrid
-  - name: Engels Guyliann
+  - name: Geerinckx Naomie
     url: https://guyliann.netlify.com/fr
 date: "`r Sys.Date()`"
 bibliography: biblio/rodent.bib
 categories:
   - "English for Science"
-  - "Paleontology"
-  - "Rodent"
+  - "Climate change"
+  - "Marine world"
 output:
   distill::distill_article:
     self_contained: false
 draft: false
+preview: images/Coral,_fish_and_one_diver_(6165872709).jpg
 ---
 
-# Source of the article with publication and word count
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
-This post is an analysis of [Biggest rodent 'fought with teeth' like tusks](https://www.bbc.com/news/science-environment-31111843) [@2015rodent]
+![](images/Coral,_fish_and_one_diver_(6165872709).jpg) 
 
-My analysis has **394** words.
 
-# Vocabulary
+# Article 1 : Ocean warming's impact on Antarctic Krill :
 
-| Word from the text | Synonym/definition in English | French translation |
-|--------------------|----------------------------------------------------------------------------------------------------|--------------------|
-| rodent | any small animal that belongs to a group of animals with strong sharp front teeth – eg. mice, rats | rongeur |
-| ... | ... | ... |
+## Source of the article with publication date and word count : 
 
-# Analysis of the study
+*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2020/05/200518145013.htm)
 
-- Researchers? 
-    + University of York, UK (lead author: Dr Philip Cox)
-    + University of Montevideo, Uruguay
+*Date of the article* : 18/05/2020
 
-- Published in? when (if mentioned)?
-    + Journal of Anatomy (04/02/2015) 
+*Word count* : ± 500 words 
 
-- General topic
-    + Use of front teeth by biggest rodent (South American cousin to guinea pig) 
-- Procedure/what was examined
-    + CT scan of skull (Reconstruction of computer model)
-    + Testing the model with finite element analysis (= engineering technology which calculates stresses/strains in complex objects)
-    
-- Conclusions/ discovery
-    + Very strong teeth used for:
-         + eating & biting
-         + tasks requiring strength (eg. digging, defence)
-         + => Used front teeth like tusks  (elephant)
+## Vocabulary : 
 
-- Remaining questions ? 
+| Word from the text :  | Synonym/definition in English :     | French translate :           |
+| --------------------- | ----------------------------------- | ---------------------------- |
+| Growth habitat        | the area where  an animal grows up  | l'habitat de croissance      |
+| The Southern Ocean    | ocean  around the Antarctic         | l'océan Austral              |
+| To shift              | To move                             | bouger, se déplacer, changer |
+| Phd student           | a doctoral student                  | doctorant(e)                 |
+| The finding           | what we get, the result             | le résultat                  |
+| the habitat area      | the surface where an animal lives   | la superficie d'habitat      |
+| To allow              | To enable                           | permettre                    |
+| Mismatch              | a gab between two things            | décalage                     |
+| Southerly water       | water of the south                  | eaux méridionales            |
+
+## Analysis table :
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| Devi Veytia (doctoral student in IMAS) and scientists of ACE CRC and British Antarctic Survey.            	|
+| Published in? 	| The journal Nature Climate Change. 	|
+| General topic? 	| The impacts of climate change on the growth habitat of Krills in Antarctic and the repercussions of that. 	|
+| Procedure/what was examined? 	| They tried to predict how the temperature of Southern Ocean and the abundance of phytoplankton will vary in the next years as a result of climate change. Then, they watched what impacts it will be on growth habitat of the krill by comparing known data and predict data.   |
+| Conclusions/discovery? 	| The impacts depend of seasons and localisations : the growth habitat will be better in spring (especially for south and continental shelf). For summer, it will be good for specific locations (in high and low latitudes) and less good for other places (mid-latitudes). Autumn is the worse season; the growth habitat will go to reduce a lot (especially in the subantarctic areas). These changes would shift the population of krill in south (when conditions are more optimal there) and perturb the cycle life of these animals. There could also have repercussions on commercial fishery and ecosystems. |
+| Remaining questions ? 	| / 	|
 
 
 

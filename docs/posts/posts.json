@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/Effects of climate change on marine world/",
+    "path": "posts/2019-10-25-biggest-rodent/",
     "title": "Effects of climate change on marine world",
     "description": "Articles on the effects of climate change on marine world",
     "author": [
@@ -12,11 +12,11 @@
     "date": "2020-10-24",
     "categories": [
       "English for Science",
-      "climate change",
-      "Effects"
+      "Climate change",
+      "Marine world"
     ],
-    "preview": "posts/Effects of climate change on marine world/images/Coral,_fish_and_one_diver_(6165872709).jpg",
-    "last_modified": "2020-10-24T16:22:24+02:00"
+    "preview": "posts/2019-10-25-biggest-rodent/images/Coral,_fish_and_one_diver_(6165872709).jpg",
+    "last_modified": "2020-10-24T21:39:54+02:00"
   },
   {
     "path": "posts/about/",
@@ -50,32 +50,5 @@
     ],
     "preview": {},
     "last_modified": "2020-10-23T08:54:55+02:00"
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-08T11:33:49+02:00"
   }
 ]
