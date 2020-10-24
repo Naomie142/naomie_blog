@@ -4,8 +4,6 @@ description: Articles on the effects of climate change on marine world
   
 author:
   - name: Geerinckx Naomie
-  - name: Nicolas Devilez
-  - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
 date: "`r Sys.Date()`"
 categories:
@@ -58,7 +56,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers 	| Devi Veytia (doctoral student in IMAS) and scientists of ACE CRC and British Antarctic Survey.            	|
 | Published in? 	| The journal Nature Climate Change. 	|
 | General topic? 	| The impacts of climate change on the growth habitat of Krills in Antarctic and the repercussions of that. 	|
-| Procedure/what was examined? 	| They tried to predict how the temperature of Southern Ocean and the abundance of the phytoplankton will vary in the next years as a result of climate change. Then, they watched what the impacts it will be on the growth habitat of the krill by comparing the known data and the predicts data.   |
-| Conclusions/discovery? 	| The impacts on the growth habitat depend of the season and the area: the growth habitat will be better in spring (especially for the south and the continental shelf). For summer, the growth habitat will be good for specific areas (in high and low latitudes) and less good for other areas (mid-latitudes). Autumn is the worse season, the growth habitat will go to reduce a lot (especially in the subantarctic areas). These changes would go to shift the population of krill in the south (when the conditions are more optimal there) and to perturb the cycle life of these animals. There could also have repercussions on commercial fishery and ecosystems. |
+| Procedure/what was examined? 	| They tried to predict how the temperature of Southern Ocean and the abundance of phytoplankton will vary in the next years as a result of climate change. Then, they watched what impacts it will be on growth habitat of the krill by comparing known data and predict data.   |
+| Conclusions/discovery? 	| The impacts depend of seasons and localisations : the growth habitat will be better in spring (especially for south and continental shelf). For summer, it will be good for specific locations (in high and low latitudes) and less good for other places (mid-latitudes). Autumn is the worse season; the growth habitat will go to reduce a lot (especially in the subantarctic areas). These changes would shift the population of krill in south (when conditions are more optimal there) and perturb the cycle life of these animals. There could also have repercussions on commercial fishery and ecosystems. |
 | Remaining questions? 	| / 	|
 
