@@ -1,7 +1,7 @@
 ---
-title: "Effects of climate change on marine world"
+title: "Article 1 : Ocean warming's impact on Antarctic Krill"
 description: |
-  Articles on the effects of climate change on marine world
+  Article on the effects of climate change on marine world
 author:
   - name: Geerinckx Naomie
     url: https://guyliann.netlify.com/fr
@@ -25,7 +25,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](images/Coral,_fish_and_one_diver_(6165872709).jpg) 
 
 
-# Article 1 : Ocean warming's impact on Antarctic Krill :
 
 ## Source of the article with publication date and word count : 
 

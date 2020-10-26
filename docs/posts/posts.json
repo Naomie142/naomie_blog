@@ -1,22 +1,22 @@
 [
   {
     "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Effects of climate change on marine world",
-    "description": "Articles on the effects of climate change on marine world",
+    "title": "Article 1 : Ocean warming's impact on Antarctic Krill",
+    "description": "Article on the effects of climate change on marine world",
     "author": [
       {
         "name": "Geerinckx Naomie",
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-24",
+    "date": "2020-10-26",
     "categories": [
       "English for Science",
       "Climate change",
       "Marine world"
     ],
     "preview": "posts/2019-10-25-biggest-rodent/images/Coral,_fish_and_one_diver_(6165872709).jpg",
-    "last_modified": "2020-10-24T21:46:42+02:00"
+    "last_modified": "2020-10-26T09:28:25+01:00"
   },
   {
     "path": "posts/about/",
