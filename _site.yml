@@ -14,9 +14,8 @@ navbar:
 base_url: Naomie142.github.io/naomie_blog/
 collections:
     posts:
-     disqus: naomies-blog 
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: naomies-blog 
 output:
   distill::distill_article:
     css: style.css
