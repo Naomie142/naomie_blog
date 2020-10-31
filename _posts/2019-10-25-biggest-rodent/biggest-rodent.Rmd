@@ -1,7 +1,7 @@
 ---
-title: "Article 1 : Ocean warming's impact on Antarctic Krill"
+title: "Article 1 : Ocean warming's impact on Antarctic Krill" 
 description: |
-  Article on the effects of climate change on marine world
+  Article on the effects of climate change on Krills 
 author:
   - name: Geerinckx Naomie
     url: https://guyliann.netlify.com/fr
@@ -15,14 +15,14 @@ output:
   distill::distill_article:
     self_contained: false
 draft: false
-preview: images/Coral,_fish_and_one_diver_(6165872709).jpg
+preview: images/Meganyctiphanes_norvegica2.jpg
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](images/Coral,_fish_and_one_diver_(6165872709).jpg) 
+![](images/Meganyctiphanes_norvegica2.jpg) 
 
 
 
@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | To shift              | To move                             | bouger, se déplacer, changer |
 | Phd student           | a doctoral student                  | doctorant(e)                 |
 | The finding           | what we get, the result             | le résultat                  |
-| the habitat area      | the surface where an animal lives   | la superficie d'habitat      |
+| The habitat area      | the surface where an animal lives   | la superficie d'habitat      |
 | To allow              | To enable                           | permettre                    |
 | Mismatch              | a gab between two things            | décalage                     |
 | Southerly water       | water of the south                  | eaux méridionales            |

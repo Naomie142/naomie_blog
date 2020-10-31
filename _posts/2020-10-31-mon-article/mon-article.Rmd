@@ -1,0 +1,65 @@
+---
+title: "Article 2: Great Barrier Reef has lost half of its corals since 1995"
+description: |
+  Article on the impact of climate change on Great Barrier Reef
+author:
+  - name: Geerinckx Naomie
+    url: https://guyliann.netlify.com/fr
+date: "`r Sys.Date()`" 
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false 
+preview: images/Coral,_fish_and_one_diver_(6165872709).jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/Coral,_fish_and_one_diver_(6165872709).jpg)
+
+## Source of the article with publication date and word count : 
+
+*Source of the article* : [link of article](https://www.bbc.com/news/world-australia-54533971 )
+
+*Date of the article* : 14/10/2020
+
+*Word count* : ± 500 words 
+
+## Vocabulary : 
+
+| Word from the text :  | Synonym/definition in English :     | French translate :           |
+| --------------------- | ----------------------------------- | ---------------------------- |
+| The steepest falls         | The strongest falls   | Les chutes les plus fortes      |
+| Bleaching    | To become white         | Blanchiment              |
+| Sharply              | Strongly                             | Fortement |
+| To drive out           | To hunt                  | Chasser                 |
+| To struggle           | To fight             | Lutter, combattre                  |
+| To wipe out      | To exterminate   | Anéantir      |
+| To assess              | To examine                           | Examiner, évaluer                    |
+
+## Analysis table :
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| Marine scientist of the ARC Centre of Excellence for Coral Reef Studies in Queensland.            	|
+| Published in ? 	| The journal Proceedings of the Royal Society B. 	|
+| General topic ? 	| Effects of climate change (ocean warming) on coral colonies of Great Barrier Reef. 	|
+| Procedure/what was examined? 	| The researchers examined size and health of various coral colonies for 22 years. Then, they compared collected data to see the variations due to ocean warming.   |
+| Conclusions/discovery? 	| Every coral colony has decreased by more than 50% but the most affected corals are branching and table-shaped corals. The main cause of this decreasing is the mass bleaching due to ocean warming (climate change). The regeneration of Great Barrier Reef is not sure because there are less babies and breeding adults.  |
+| Remaining questions ? 	|  / 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
