@@ -6,6 +6,10 @@ author:
   - name: Geerinckx Naomie
     url: https://guyliann.netlify.com/fr
 date: Oct. 31, 2020
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
 output:
   distill::distill_article:
     self_contained: false

@@ -10,9 +10,13 @@
       }
     ],
     "date": "2020-10-31",
-    "categories": [],
+    "categories": [
+      "English for Science",
+      "Climate change",
+      "Marine world"
+    ],
     "preview": "posts/2020-10-31-mon-article/images/Coral,_fish_and_one_diver_(6165872709).jpg",
-    "last_modified": "2020-10-31T18:11:06+01:00"
+    "last_modified": "2020-11-03T08:49:28+01:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",
