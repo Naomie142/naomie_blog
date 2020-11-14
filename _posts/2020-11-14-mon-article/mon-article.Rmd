@@ -1,0 +1,43 @@
+---
+title: "SDD's graphic"
+description: |
+  Article about Urchins
+author:
+  - name: Geerinckx Naomie
+    url: https://guyliann.netlify.com/fr
+date: 11-14-2020
+categories:
+  - "SDD"
+  - "Urchin"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
+```
+
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+## Introduction :
+
+In this article, I will talk about weight of **urchin's gonads**. For that, I will show you a graphic about the gonad's weight in different steps of maturity (step 0 where gonads are missing or depleted, step 1 where gonads are growing and step 2 where gonads are mature).
+
+## Graphic : 
+
+```{r graphic}
+
+ggplot(urchin, aes(x = maturity, y = gonads, fill = maturity)) +
+  geom_bar(stat = "Identity", width = 0.3) +
+  labs(x= "Maturity", y = "Gonad's weight [g]")
+```
+
+## Conclusion:
+
+I suppose the values for stade 0 are wrongs because we can not have a such high weight. In effect, at stade 0, gonads are either absents or spent. However (if we do not take values for stade 0), we can determinate a correlation with gonad's weight and maturity. The weight of gonads increases when the maturity of these enhances. 
+
+
