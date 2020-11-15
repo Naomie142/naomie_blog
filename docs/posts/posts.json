@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2020-11-14-mon-article/",
+    "path": "posts/2020-11-14-SDD/",
     "title": "SDD's graphic",
     "description": "Article about Urchins",
     "author": [
@@ -14,8 +14,8 @@
       "SDD",
       "Urchin"
     ],
-    "preview": "posts/2020-11-14-mon-article/mon-article_files/figure-html5/graphic-1.png",
-    "last_modified": "2020-11-14T10:46:23+01:00",
+    "preview": "posts/2020-11-14-SDD/mon-article_files/figure-html5/graphic-1.png",
+    "last_modified": "2020-11-15T09:39:34+01:00",
     "preview_width": 1248,
     "preview_height": 768
   },
