@@ -50,8 +50,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers 	| Marine scientist of the ARC Centre of Excellence for Coral Reef Studies in Queensland.            	|
 | Published in ? 	| The journal Proceedings of the Royal Society B. 	|
 | General topic ? 	| Effects of climate change on coral colonies of Great Barrier Reef. 	|
-| Procedure/what was examined? 	| The researchers examined size and health of various coral colonies for 22 years. Then, they see the variations due to ocean warming.   |
-| Conclusions/discovery? 	| Every coral colony has decreased by more than 50% but the most affected colonies are colonies of branching and table-shaped corals. The main cause of this decreasing is the bleaching of corals accelerated by ocean warming (caused by climate change). The regeneration of Great Barrier Reef is not sure because there are less babies and breeding adults.  |
+| Procedure/what was examined ? 	| The researchers examined size and health of various coral colonies for 22 years. Then, they see the variations due to ocean warming (caused by climate change).   |
+| Conclusions/discovery ? 	| Every coral colony has decreased by more than 50% but the most affected colonies are colonies of branching and table-shaped corals. The main cause of this decreasing is the bleaching of corals accelerated by ocean warming. The regeneration of Great Barrier Reef is not sure because there are less babies and breeding adults.  |
 | Remaining questions ? 	|  / 	
 
 

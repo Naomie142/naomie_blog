@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-11-15-article-4/",
+    "title": "Article 4 : Future ocean conditions could cause significant physical changes in marine mussels",
+    "description": "Article on effects of climate change on mussels",
+    "author": [
+      {
+        "name": "Geerinckx Naomie",
+        "url": "https://guyliann.netlify.com/fr"
+      }
+    ],
+    "date": "2020-11-15",
+    "categories": [
+      "English for Science",
+      "Climate change",
+      "Marine world"
+    ],
+    "preview": "posts/2020-11-15-article-4/images/Blue_mussel_(Mytilus_edulis)_shell.jpg",
+    "last_modified": "2020-11-15T11:40:58+01:00"
+  },
+  {
     "path": "posts/2020-11-15-mon-article/",
     "title": "Article 3 : Climate change an imminent threat to glass sponge reefs",
     "description": "Article on effects of climate change on glass sponges",
@@ -55,7 +74,7 @@
       "Marine world"
     ],
     "preview": "posts/2020-10-31-mon-article/images/Coral,_fish_and_one_diver_(6165872709).jpg",
-    "last_modified": "2020-11-15T09:46:12+01:00"
+    "last_modified": "2020-11-15T11:41:06+01:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",

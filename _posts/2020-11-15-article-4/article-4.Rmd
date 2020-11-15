@@ -1,0 +1,58 @@
+---
+title: "Article 4 : Future ocean conditions could cause significant physical changes in marine mussels"
+description: |
+  Article on effects of climate change on mussels
+author:
+  - name: Geerinckx Naomie
+    url: https://guyliann.netlify.com/fr
+date: Nov. 15, 2020
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
+output:
+  distill::distill_article:
+    self_contained: false
+preview: images/Blue_mussel_(Mytilus_edulis)_shell.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/Blue_mussel_(Mytilus_edulis)_shell.jpg)
+
+## Source of the article with publication date and word count : 
+
+*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2020/10/201009094946.htm)
+
+*Date of the article* : 09/10/2020
+
+*Word count* : ± 500 words 
+
+## Vocabulary : 
+
+| Word from the text :  | Synonym/definition in English :     | French translate :           |
+| --------------------- | ----------------------------------- | ---------------------------- |
+| Shell         | Protection where the mussel is   | Coquille      |
+
+## Analysis table :
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| Researchers from the University of Plymouth.            	|
+| Published in ? 	| Frontiers of Marine Science. 	|
+| General topic ? 	| Effects of climate change on the physic of mussels. 	|
+| Procedure/what was examined ? 	| First of all, scientists exhibited blue mussels to present and future conditions of ocean acidification. Then, they did the same with ocean warming. Furthermore, they exposed them at the same time to current and future conditions of warming and acidification. Finally, they compared data to see the variations caused by climate change.   |
+| Conclusions/discovery ? 	| Firstly, they found (without electronic microscopy) that warming alone allows an augmentation of growth of shell mussels but warming and acidification combined reduce this growth. Afterwards, they used an electronic microscopy and they found when they exhibited mussels only at warming, there are variations on crystal structure of mussels. In effect, they saw some fragility. But they identified too when they exposed mussels at acidification and warming at the same time, there are some reparations of the fragility of crystal structure. So, they concluded the acidification can counter the wrong effects of warming.  |
+| Remaining questions ? 	|  / 	
+
+
+
+
+
+
+
+
+
+
