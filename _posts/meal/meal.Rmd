@@ -12,4 +12,4 @@ output: distill::distill_article
 
  Oct 11th : This weekend, I watched a new series in English that a friend recommended me. This is series who talks about a virus in the rain, it is called “The rain”. I loved it and I can’t wait to continue it. Furthermore, I was watched some videos about science. 
 
-
+ Nov 24th : This month, I loaded a new application about information : that is the BBC News. I find that is an interesting application because we can daily know news of world. For example, I was able to follow the American Election and discover the defeat of Trump. Then, I discovered too a new serie about chess which call "The Gambit of chess". 

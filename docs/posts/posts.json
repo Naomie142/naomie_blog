@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Naomie Geerinckx",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-24",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2020-11-24T15:26:26+01:00"
+  },
+  {
     "path": "posts/2020-11-15-article-4/",
     "title": "Article 4 : Future ocean conditions could cause significant physical changes in marine mussels",
     "description": "Article on effects of climate change on mussels",
@@ -109,23 +127,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-10-23T09:53:02+02:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-23",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-10-23T08:54:55+02:00"
   }
 ]
