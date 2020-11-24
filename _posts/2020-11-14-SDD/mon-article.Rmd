@@ -25,19 +25,17 @@ urchin <- read("urchin_bio", package = "data.io")
 
 ## Introduction :
 
-In this article, I will talk about weight of **urchin's gonads**. For that, I will show you a graphic about the gonad's weight in different steps of maturity (step 0 where gonads are missing or depleted, step 1 where gonads are growing and step 2 where gonads are mature).
+In this article, I will talk about **integument of urchins**. The integument is the weight of the urchin without content of test. For that, I will show you a graphic about the dry integument of urchin in function of integument wether they live in nature or in farm.
 
 ## Graphic : 
 
 ```{r graphic}
-
-ggplot(urchin, aes(x = maturity, y = gonads, fill = maturity)) +
-  geom_bar(stat = "Identity", width = 0.3) +
-  labs(x= "Maturity", y = "Gonad's weight [g]")
-```
-
+ggplot(urchin, aes(integuments, dry_integuments, col = origin)) +
+    geom_jitter() +
+  labs(x = "Integuments [g]", y="Dry_integuments [g]")
+````
 ## Conclusion:
 
-I suppose the values for stade 0 are wrongs because we can not have a such high weight. In effect, at stade 0, gonads are either absents or spent. However (if we do not take values for stade 0), we can determinate a correlation with gonad's weight and maturity. The weight of gonads increases when the maturity of these enhances. 
+On the graphic, we can see a correlation between integuments and dry integuments. Furthermore, we can deduce that the urchins of fishery have less water in their test. Finally, urchins of farm can reach an integument more elevated. That is logical because we saw in class that urchin coming from farm are heavier.
 
 
