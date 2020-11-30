@@ -8,3 +8,7 @@ listing: posts
 #distill::create_post("my post") # use this fonction to create a new post
 ```
 
+
+# Welcome on my blog !
+
+![](images/seascape_seagulls_landscape_sea_water_ocean_beach_coast-539537.jpg!s.jpeg)
