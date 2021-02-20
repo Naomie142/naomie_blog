@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2021-02-20-algues/",
+    "title": "Article 5 : Ocean acidification locks algal communities in a simplified state ",
+    "description": "Article on effects of climate change on Algae.",
+    "author": [
+      {
+        "name": "Naomie Geerinckx",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-20",
+    "categories": [
+      "English for Science",
+      "Climate change",
+      "Marine world"
+    ],
+    "preview": "posts/2021-02-20-algues/images/algues-073.jpg",
+    "last_modified": "2021-02-20T18:13:27+01:00"
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},

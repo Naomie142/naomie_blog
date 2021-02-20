@@ -1,0 +1,51 @@
+---
+title: "Article 5 : Ocean acidification locks algal communities in a simplified state "
+description: |
+  Article on effects of climate change on Algae.
+author:
+  - name: Naomie Geerinckx
+    url: {}
+date: Feb. 20, 2021
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
+output:
+  distill::distill_article:
+    self_contained: false
+preview: images/algues-073.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/algues-073.jpg)
+
+## Source of the article with publication date and word count : 
+
+*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2021/01/210115110333.htm)
+
+*Date of the article* : 15/01/2021
+
+*Word count* : ± 470 words 
+
+## Vocabulary : 
+
+| Word from the text :  | Synonym/definition in English :     | French translate :           |
+| --------------------- | ----------------------------------- | ---------------------------- |
+| To anchor         | Attach something in the water    | Ancrer      |
+| Disturbance    | Perturbation         | Perturbation              |
+| To seep              | To run slowly                            | Suinter, couler lentemennt |
+
+## Analysis table :
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| Researchers from the university of Tsukuba in Japan.            	|
+| Published in ? 	| In Global Change Biology 	|
+| General topic ? 	| Impacts of climate change on Algae. 	|
+| Procedure/what was examined? 	| To begin, scientists put tiles into water so that algae can grow on them. They put tiles into two different waters with “normal conditions” (= water not subject to human activity and, thus, without over-acidification) and with acidification conditions (which correspond at conditions of CO2 at the end of 21st century). Then, they watched the differences between the coldest months (i.e., January to July) and the warmest months (i.e., July to January).    |
+| Conclusions/discovery? 	| Algae into acidification conditions grow on tiles but with an inferior biodiversity, a lower complexity and a smaller biomass (these results are constant for all of seasons). Scientists decided to exchange algae between the two different conditions. They found that colonies h adapted at the environment where they had transplanted. Thus, Algae which had transplanted into classic water, has returned to a normal biodiversity, complexity and biomass (and vice versa for algae into acidification conditions).  |
+| Remaining questions ? 	|  / 	
+
