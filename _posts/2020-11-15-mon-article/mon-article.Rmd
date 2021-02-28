@@ -1,7 +1,7 @@
 ---
-title: "Article 3 : Climate change an imminent threat to glass sponge reefs"
+title: "Article 3: Climate change an imminent threat to glass sponge reefs."
 description: |
-  Article on effects of climate change on glass sponges
+  Article on effects of climate change on glass sponges.
 author:
   - name: Geerinckx Naomie
     url: https://guyliann.netlify.com/fr

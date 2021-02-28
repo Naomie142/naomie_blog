@@ -1,0 +1,51 @@
+---
+title: "Article 6 : Resilience to climate change? Octopuses adapting to higher ocean acid levels."
+description: |
+  Article on effects of climate change on Octopuses.
+author:
+  - name: Naomie Geerinckx
+    url: {}
+date: Feb. 28, 2021
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
+output:
+  distill::distill_article:
+    self_contained: false
+preview: images/Octopus_vulgaris_2.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/Octopus_vulgaris_2.jpg)
+
+## Source of the article with publication date and word count : 
+
+*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2021/01/210113144507.htm )
+
+*Date of the article* : 13/01/2021
+
+*Word count* : ± 600 words 
+
+## Vocabulary : 
+
+| Word from the text :  | Synonym/definition in English :     | French translate :           |
+| --------------------- | ----------------------------------- | ---------------------------- |
+| Impaired         | Modified   | Altéré      |
+| Squid    | Animal similar to an octopus         | Calmar              |
+| Purposes              | Requirements                            | Les besoins |
+
+## Analysis table :
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| Researchers of Walla Walla University and La Sierra University.            	|
+| Published in ? 	| Chicago Journals. 	|
+| General topic ? 	| Effects of climate change on octopuses. 	|
+| Procedure/what was examined? 	| Researchers used a specie of octopus named “rubescens”. They exposed some individuals at acidify water (due to CO2) for five weeks and, at first and fifth week, they measured their metabolic rate (RMR). Before these five weeks, researchers had measured the RMR to compare.    |
+| Conclusions/discovery? 	| Results showed an amazing adaptability of individuals. The metabolism of octopus has considerably changed for the first 24 hours in acidity. One week later, the RMR of octopus has returned to normal. However, the capacity of octopus to function in low concentration of oxygen has decreased with the acidity. To conclude, the results demonstrated that octopus could be able to resist at the acidification of ocean due to climate change.  |
+| Remaining questions ? 	|  / 
+

@@ -1,5 +1,43 @@
 [
   {
+    "path": "posts/2021-02-28-fishes/",
+    "title": "Article 7 :  Impact of rising sea temperatures on marine life.",
+    "description": "Article on effects of climate change on fishes.",
+    "author": [
+      {
+        "name": "Naomie Geerinckx",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-28",
+    "categories": [
+      "English for Science",
+      "Climate change",
+      "Marine world"
+    ],
+    "preview": "posts/2021-02-28-fishes/images/p78447FiveLinedCardinalfish.jpg",
+    "last_modified": "2021-02-28T15:28:18+01:00"
+  },
+  {
+    "path": "posts/2021-02-28-octopus/",
+    "title": "Article 6 : Resilience to climate change? Octopuses adapting to higher ocean acid levels.",
+    "description": "Article on effects of climate change on Octopuses.",
+    "author": [
+      {
+        "name": "Naomie Geerinckx",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-28",
+    "categories": [
+      "English for Science",
+      "Climate change",
+      "Marine world"
+    ],
+    "preview": "posts/2021-02-28-octopus/images/Octopus_vulgaris_2.jpg",
+    "last_modified": "2021-02-28T15:23:58+01:00"
+  },
+  {
     "path": "posts/2021-02-20-algues/",
     "title": "Article 5 : Ocean acidification locks algal communities in a simplified state ",
     "description": "Article on effects of climate change on Algae.",
@@ -57,8 +95,8 @@
   },
   {
     "path": "posts/2020-11-15-mon-article/",
-    "title": "Article 3 : Climate change an imminent threat to glass sponge reefs",
-    "description": "Article on effects of climate change on glass sponges",
+    "title": "Article 3: Climate change an imminent threat to glass sponge reefs.",
+    "description": "Article on effects of climate change on glass sponges.",
     "author": [
       {
         "name": "Geerinckx Naomie",
@@ -72,7 +110,7 @@
       "Marine world"
     ],
     "preview": "posts/2020-11-15-mon-article/images/Aphrocallistes_vastus.jpg",
-    "last_modified": "2020-11-15T10:18:06+01:00"
+    "last_modified": "2021-02-28T15:19:15+01:00"
   },
   {
     "path": "posts/2020-11-14-SDD/",
