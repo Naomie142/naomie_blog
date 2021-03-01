@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Source of the article with publication date and word count : 
 
-*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2021/01/210126140029.htm)
+*Source of the article* : [link of article](https://news.nova.edu/news-releases/nsu-researcher-part-of-team-studying-impact-of-rising-sea-temperatures-on-marine-life/)
 
 *Date of the article* : 26/01/2021
 

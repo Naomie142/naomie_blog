@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Source of the article with publication date and word count : 
 
-*Source of the article* : [link of article](https://www.sciencedaily.com/releases/2021/01/210113144507.htm )
+*Source of the article* : [link of article](https://www.journals.uchicago.edu/journals/pbz/pr/200113)
 
 *Date of the article* : 13/01/2021
 
