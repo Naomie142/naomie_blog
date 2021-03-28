@@ -1,5 +1,5 @@
 ---
-title: "Article 6 : Resilience to climate change? Octopuses adapting to higher ocean acid levels."
+title: "Article 6 : Resilience to climate change? New study finds octopuses adapting to higher ocean acid levels."
 description: |
   Article on effects of climate change on Octopuses.
 author:
