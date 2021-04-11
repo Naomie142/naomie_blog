@@ -1,0 +1,28 @@
+---
+title: "Introduction : "
+description: |
+  A short introduction of my topic.
+author:
+  - name: Naomie Geerinckx
+    url: {}
+date: Apr. 11, 2021
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction : 
+
+The Climate change is a topic which interrogates a lot our current society for several years. We wonder how our habitat will vary and which repercussions climate change will have on living being. So, many scientists have interested at the causes of this change to find solutions to avoid major damages. They try to slow down Climate change to not get worse and worse.
+In this portfolio, I decided to interest closer at the impacts of Climate change on marine world. At the aquatic level, Climate change mainly causes an acidification and a temperature increase of water which are mostly due to the CO2 concentration rise in atmosphere. In effect, the overage of CO2 in atmosphere is absorbed by ocean in the form of carbonic acid (H2CO3). Hence the acidification. Moreover, CO2 is a greenhouse gas hence the warming of atmosphere and, so, of ocean. 
+Now that we know the causes of Climate change, what are the consequences of that on marine life? What are the benefits or the damages? To respond at these questions, I’m going to read and analyse some articles on different marine living being groups: crustaceans (Krill), cnidarians (corals), poriferous (glass sponges), bivalves (mussels), algae, octopods (octopus) and fishes (five-lined cardinal and redbelly yellowtail fusilier fishes). 
+
+

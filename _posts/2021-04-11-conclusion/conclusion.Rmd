@@ -1,0 +1,27 @@
+---
+title: "Conclusion :"
+description: |
+  A short conclusion of my topic.
+author:
+  - name: Naomie Geerinckx
+    url: {}
+date: Apr. 11, 2021
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Conclusion : 
+
+After reading and analyzing the articles, I can say we mainly have bad impacts of global change except for octopus and mussels. Indeed, we can notice a global structural fragility in organisms (sponges will have deficiencies in their skeleton, fish in their gills or mussels in their shells). Moreover, global warming can lead to migrations which may disrupt their life cycle (as in the case of krill) or to a biomass and biodiversity deficit (as in the case of algae) or to a bleaching (as in the case of corals). 
+Finally, for some individuals, such as mussels and octopuses, there is some good results. The metabolism of octopus can resist to acidification and the wrong effect on temperature increase on mussels can be countered by acidification.
+
+

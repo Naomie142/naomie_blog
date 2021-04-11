@@ -6,5 +6,4 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-
- Naomie Geerinckx, Mr Devillez, Bac 2 bio 
+ Hello, I am Naomie Geerinckx and I am a student in Biology at Umons. On this blog, you can discover a series of analysis of scientific articles on "The impact of Climate change on marine world".

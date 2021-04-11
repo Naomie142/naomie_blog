@@ -1,7 +1,29 @@
 ---
 title: "Naomie's blog"
 site: distill::distill_website
-listing: posts
+listing:
+  posts : 
+  - about
+  
+  - meal
+  
+  - 2021-04-11-intro
+  
+  - 2019-10-25-biggest-rodent
+  
+  - 2020-10-31-mon-article
+  
+  - 2020-11-15-mon-article
+  
+  - 2020-11-15-article-4
+  
+  - 2021-02-20-algues
+  
+  - 2021-02-28-octopus
+  
+  - 2021-02-28-fishes
+  
+  - 2021-04-11-conclusion
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
@@ -9,6 +31,6 @@ listing: posts
 ```
 
 
-# Welcome on my blog !
+# Welcome to my blog !
 
 ![](images/seascape_seagulls_landscape_sea_water_ocean_beach_coast-539537.jpg!s.jpeg)
