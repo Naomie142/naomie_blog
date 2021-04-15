@@ -1,0 +1,34 @@
+---
+title: "Bibliography :"
+author:
+  - name: Naomie Geerinckx
+    url: {}
+date: Apr. 4, 2021
+categories:
+  - "English for Science"
+  - "Climate change"
+  - "Marine world"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+* <https://www.sciencedaily.com/releases/2020/05/200518145013.htm>, 25/10/2020.
+
+*	<https://www.bbc.com/news/world-australia-54533971>, 31/10/2020.
+
+*	<https://www.sciencedaily.com/releases/2020/06/200604095644.htm>, 15/11/2020.
+
+* <https://www.sciencedaily.com/releases/2020/10/201009094946.htm>, 15/11/2020.
+
+*	<https://www.sciencedaily.com/releases/2021/01/210115110333.htm>, 20/02/2021.
+
+*	<https://www.journals.uchicago.edu/journals/pbz/pr/200113>, 28/02/2021.
+
+*	<https://news.nova.edu/news-releases/nsu-researcher-part-of-team-studying-impact-of-rising-sea-temperatures-on-marine-life/>, 28/02/2021.
+
+

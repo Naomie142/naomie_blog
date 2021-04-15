@@ -30,6 +30,8 @@ navbar:
           href: "posts/2021-02-28-fishes/index.html"
         - text: "Conclusion"
           href: "posts/2021-04-11-conclusion/index.html"
+        - text: "Bibliography"
+          href: "posts/2021-04-15-bibliographies/index.html"
     - icon: fab fa-github
       href: https://github.com/Naomie142/naomie_blog
 base_url: http://Naomie142.github.io/naomie_blog/

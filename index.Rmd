@@ -24,6 +24,8 @@ listing:
   - 2021-02-28-fishes
   
   - 2021-04-11-conclusion
+  
+  - 2021-04-15-bibliographies
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
